@@ -1,2 +1,2 @@
 # hello2
-asd
+I love :coffee:, :pizza:, :dancer:.
